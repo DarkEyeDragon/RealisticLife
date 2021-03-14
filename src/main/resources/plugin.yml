@@ -1,0 +1,7 @@
+name: RealisticLife
+version: ${project.version}
+main: me.darkeyedragon.realisticlife.Realisticlife
+api-version: 1.16
+authors: [ DarkEyeDragon ]
+description: Add thirst, heat, cold mechanics
+website: https://darkeyedragon.me
